@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            .thoughts
 tagline:          ''
-description:      'A collection of stories, experiences, adventures and misadventures. From the peaks of adventure to the trenches of development and ops.'
+description:      'A collection of stories, experiences, adventures and misadventures, from the landscapes of Southeast Asia to the trenches of programming and ops.'
 url:              http://vincentpaca.github.io
 baseurl:          /
 
