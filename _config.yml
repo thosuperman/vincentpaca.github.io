@@ -15,7 +15,7 @@ baseurl:          /
 
 author:
   name:           'Vincent Paca'
-  url:            https://vincentpaca.com
+  url:            http://vincentpaca.com
 
 paginate:         5
 
