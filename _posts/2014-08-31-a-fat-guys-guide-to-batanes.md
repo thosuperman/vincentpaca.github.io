@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: A Fat Guy's Guide To Batanes
 ---
 
