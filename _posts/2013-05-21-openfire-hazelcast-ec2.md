@@ -1,5 +1,5 @@
 ---
-format: post
+layout: post
 title: Openfire + Hazelcast on EC2
 ---
 
